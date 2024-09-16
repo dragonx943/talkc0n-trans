@@ -9,5 +9,5 @@
     "gender_label": "What is your gender ?",
     "age_label": "How old are you ?",
     "note_label": "Leave a note for everyone ?",
-    "name_longer": "Your full name is invalid, please register again!"
+    "name_longer": "Your full name is invalid (need more than 6-7 words), please register again!"
 }
