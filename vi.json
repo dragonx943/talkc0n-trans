@@ -13,7 +13,7 @@
     "connected_succ": "Bạn đã được kết nối với người lạ thành công!",
     "invalid_language": "Lỗi: Hãy chọn ngôn ngữ!",
     "already_in_queue": "Bạn đã ở trong hàng chờ rồi!",
-    "register_first": "Bạn chưa đăng ký. Vui lòng sử dụng lệnh /register trước.",
+    "register_first": "Bạn chưa đăng ký. Vui lòng sử dụng lệnh `/register` trước!",
     "waiting_for_match": "Bạn đang trong hàng chờ...Hãy chờ cho đến khi kết nối thành công!",
     "left_queue": "Bạn đã rời khỏi hàng chờ thành công!",
     "left_chat": "Bạn đã rời khỏi cuộc trò chuyện này!",
@@ -24,6 +24,6 @@
     "chat_timeout": "Cuộc trò chuyện đã kết thúc do không hoạt động!",
     "match_info_title": "💬 Bảng thông báo Talkc0n 🎛",
     "match_info_description": "Dưới đây là thông tin về người được ghép, bao gồm:",
-    "partner_note": "Ghi chú của người lạ:",
+    "partner_note": "== Ghi chú của người lạ:",
     "connected_success": "Bạn đã được kết nối với người lạ thành công! Bắt đầu đoạn Chat này!"
 }
