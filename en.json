@@ -25,5 +25,19 @@
     "match_info_title": "💬  Talkc0n Notification Panel  🎛",
     "match_info_description": "Here is the information about your matched stranger, including:",
     "partner_note": "--> Stranger note:",
-    "connected_success": "You have been successfully connected with a stranger! Start this chat!"
+    "connected_success": "You have been successfully connected with a stranger! Start this chat!",
+    "match_request": "",
+    "match_agree": "",
+    "match_disagree": "",
+    "match_info_name": "",
+    "match_info_gender": "",
+    "match_info_age": "",
+    "match_info_discord": "",
+    "match_rejected": "",
+    "match_accepted": "",
+    "match_already_requested": "",
+    "match_not_in_chat": "",
+    "match_timeout": "",
+    "match_rejected_message": "",
+    "not_your_button": ""
 }
