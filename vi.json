@@ -25,5 +25,19 @@
     "match_info_title": "💬  Bảng thông báo Talkc0n  🎛",
     "match_info_description": "Dưới đây là thông tin về người được ghép, bao gồm:",
     "partner_note": "--> Ghi chú của người lạ:",
-    "connected_success": "Bạn đã được kết nối với người lạ thành công! Bắt đầu đoạn Chat này!"
+    "connected_success": "Bạn đã được kết nối với người lạ thành công! Bắt đầu đoạn Chat này!",
+    "match_request": "Người lạ muốn yêu cầu tiết lộ danh tính cùng với bạn!",
+    "match_agree": "Đồng ý",
+    "match_disagree": "Không đồng ý",
+    "match_info_name": "Họ và tên",
+    "match_info_gender": "Giới tính",
+    "match_info_age": "Tuổi",
+    "match_info_discord": "Tên Discord",
+    "match_rejected": "Người lạ đã không đồng ý tiết lộ danh tính!",
+    "match_accepted": "Cả hai đã đồng ý tiết lộ thông tin. Dưới đây là thông tin của người lạ:",
+    "match_already_requested": "Bạn đã gửi yêu cầu, vui lòng đợi phản hồi!",
+    "match_not_in_chat": "Bạn không có trong cuộc trò chuyện nào!",
+    "match_timeout": "Yêu cầu tiết lộ danh tính đã hết hạn!",
+    "match_rejected_message": "Bạn đã từ chối yêu cầu của người lạ!",
+    "not_your_button": "Bạn không thể nhấn nút này!"
 }
