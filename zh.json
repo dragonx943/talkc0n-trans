@@ -1,0 +1,14 @@
+// File made and translated by @silihoa2k7 (X, Twitter)
+{
+    "register_success": "註冊個人資料成功！",
+    "invalid_gender": "性別錯誤！請出入：男/女/其他",
+    "age_must_be_number": "你/妳的年紀必需是數字！",
+    "invalid_key": "無效！",
+    "fill_info": "填資料",
+    "lan_success": "已換語言成：",
+    "full_name_label": "你/妳的姓名是？",
+    "gender_label": "你/妳的性別是？",
+    "age_label": "你/妳的年紀？",
+    "note_label": "給別人的備注？",
+    "name_longer": "Họ và tên của bạn không hợp lệ (cần nhiều hơn 6-7 chữ cái), vui lòng đăng ký lại!"
+}
