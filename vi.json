@@ -22,8 +22,8 @@
     "stranger_says": "Người lạ nói:",
     "chat_ended": "Cuộc trò chuyện này đã kết thúc!",
     "chat_timeout": "Cuộc trò chuyện đã kết thúc do không hoạt động!",
-    "match_info_title": "💬 Bảng thông báo Talkc0n 🎛",
+    "match_info_title": "💬  Bảng thông báo Talkc0n  🎛",
     "match_info_description": "Dưới đây là thông tin về người được ghép, bao gồm:",
-    "partner_note": "== Ghi chú của người lạ:",
+    "partner_note": "--> Ghi chú của người lạ:",
     "connected_success": "Bạn đã được kết nối với người lạ thành công! Bắt đầu đoạn Chat này!"
 }
