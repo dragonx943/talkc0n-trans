@@ -9,5 +9,5 @@
     "gender_label": "Giới tính của bạn là gì ?",
     "age_label": "Bạn đang bao nhiêu tuổi ?",
     "note_label": "Ghi chú cho mọi người ?",
-    "name_longer": "Họ và tên của bạn không hợp lệ, vui lòng đăng ký lại!"
+    "name_longer": "Họ và tên của bạn không hợp lệ (cần nhiều hơn 6-7 chữ cái), vui lòng đăng ký lại!"
 }
