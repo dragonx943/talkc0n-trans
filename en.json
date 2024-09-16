@@ -1,0 +1,13 @@
+{
+    "register_success": "Register personal information successfully!",
+    "invalid_gender": "Invalid gender! Please select and enter Form: Male / Female / Other",
+    "age_must_be_number": "Age must be a number!",
+    "invalid_key": "Invalid key!",
+    "fill_info": "Information fill-in table",
+    "lan_success": "Language has been changed to:",
+    "full_name_label": "What is your full name ?",
+    "gender_label": "What is your gender ?",
+    "age_label": "How old are you ?",
+    "note_label": "Leave a note for everyone ?",
+    "name_longer": "Your full name is invalid, please register again!"
+}

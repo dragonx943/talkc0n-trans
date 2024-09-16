@@ -1,0 +1,13 @@
+{
+    "register_success": "Đã đăng ký thông tin cá nhân thành công!",
+    "invalid_gender": "Sai giới tính! Xin hãy chọn và nhập: Nam / Nữ / Khác",
+    "age_must_be_number": "Tuổi của bạn phải là 1 con số!",
+    "invalid_key": "Khóa không hợp lệ!",
+    "fill_info": "Điền thông tin",
+    "lan_success": "Đã đổi ngôn ngữ thành:",
+    "full_name_label": "Họ và tên của bạn ?",
+    "gender_label": "Giới tính của bạn là gì ?",
+    "age_label": "Bạn đang bao nhiêu tuổi ?",
+    "note_label": "Ghi chú cho mọi người ?",
+    "name_longer": "Họ và tên của bạn không hợp lệ, vui lòng đăng ký lại!"
+}
