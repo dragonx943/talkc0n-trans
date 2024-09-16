@@ -22,8 +22,8 @@
     "stranger_says": "Stranger says:",
     "chat_ended": "This conversation has ended!",
     "chat_timeout": "The conversation has ended due to inactivity!",
-    "match_info_title": "💬 Talkc0n Notification Panel 🎛",
+    "match_info_title": "💬  Talkc0n Notification Panel  🎛",
     "match_info_description": "Here is the information about your matched stranger, including:",
-    "partner_note": "== Stranger note:",
+    "partner_note": "--> Stranger note:",
     "connected_success": "You have been successfully connected with a stranger! Start this chat!"
 }
