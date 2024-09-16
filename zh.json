@@ -9,5 +9,21 @@
     "gender_label": "你/妳的性別是？",
     "age_label": "你/妳的年紀？",
     "note_label": "給別人的備注？",
-    "name_longer": "您的全名無效（需要超過6-7個字母），請重新註冊！"
+    "name_longer": "您的全名無效（需要超過6-7個字母），請重新註冊！",
+    "connected_succ": "",
+    "invalid_language": "",
+    "already_in_queue": "",
+    "register_first": "",
+    "waiting_for_match": "",
+    "left_queue": "",
+    "left_chat": "",
+    "stranger_left": "",
+    "not_in_chat": "",
+    "stranger_says": "",
+    "chat_ended": "",
+    "chat_timeout": "",
+    "match_info_title": "",
+    "match_info_description": "",
+    "partner_note": "",
+    "connected_success": ""
 }
