@@ -25,5 +25,19 @@
     "match_info_title": "",
     "match_info_description": "",
     "partner_note": "",
-    "connected_success": ""
+    "connected_success": "",
+    "match_request": "",
+    "match_agree": "",
+    "match_disagree": "",
+    "match_info_name": "",
+    "match_info_gender": "",
+    "match_info_age": "",
+    "match_info_discord": "",
+    "match_rejected": "",
+    "match_accepted": "",
+    "match_already_requested": "",
+    "match_not_in_chat": "",
+    "match_timeout": "",
+    "match_rejected_message": "",
+    "not_your_button": ""
 }
