@@ -7,7 +7,7 @@
   "register_description": "關於自己？",
   "register_success": "註冊Talkc0n成功!",
   "start_matching": "正在尋找陌生人...請等待...",
-  "match_found": "已找到！開始對話！",
+  "match_found": "找到人了！開始對話～",
   "already_in_chat": "正在對話中。在開始新的對話之前，請使用 `/stop` 指令來暫停正在進行的對話",
   "match_request_sent": "身份披露要求已傳送，正在等待陌生人確認！",
   "match_request_received": "陌生人想要一起披露身份。使用 `/match` 來同意或忽略訊息如果你不想！",
@@ -15,7 +15,7 @@
   "partner_left_chat": "陌生人已退出這對話！",
   "stranger_message": "**陌生人：** {message}",
   "register_first": "你必需註冊才能跟陌生人對話。使用 `/register` 指令來註冊！",
-  "match_success": "披露資料需求已通過。陌生人的資料已傳送到私人聊天，請檢查！",
+  "match_success": "披露資料要求已通過。陌生人的資料已傳送到私人聊天，請檢查！",
   "identity_revealed": "注意：有可能陌生人的資料是錯誤/不真實，但那是他提供給Talkc0n的！",
   "partner_info": "陌生人的資料",
   "name": "姓名",
@@ -35,8 +35,8 @@
   "not_in_chat": "你目前不在對話中。先使用 `/start` 指令！",
   "partner_not_in_guild": "有問題，哭：對方不在Talkc0n裡 ;-;",
   "voice_request_sent": "建立語音頻道要求已傳到陌生人...請等待他的回應！",
-  "voice_request_received": "他也想跟你建立語音頻道。 點 ✅ （同意） 或 ❌ （拒絕）！",
+  "voice_request_received": "對方想要跟你建立語音頻道。 點 ✅ （同意） 或 ❌ （拒絕）！",
   "voice_channel_created": "已建立語音頻道！你可以在這參加（一分鍾內有效）： {channel}",
-  "voice_request_declined": "你的建立語音頻道已被拒絕 ;-;",
-  "voice_request_timeout": "建立語音頻道需求已過期。請重次！"
+  "voice_request_declined": "你的建立語音頻道要求已被拒絕 ;-;",
+  "voice_request_timeout": "建立語音頻道要求已過期。請重次！"
 }
