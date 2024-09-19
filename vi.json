@@ -33,10 +33,10 @@
   "guild_not_found": "Lỗi của Bot: Không tìm thấy máy chủ chỉ định!",
   "not_in_guild": "Bạn chưa tham gia máy chủ. Vui lòng tham gia máy chủ này trước: <{invite_link}>",
   "not_in_chat": "Bạn không tồn tại trong đoạn Chat nào. Hãy sử dụng lệnh `/start` trước!",
-  "partner_not_in_guild": "Có sự cố, hic: Đối tác của bạn không có trong máy chủ của Talkc0n ;-;",
+  "partner_not_in_guild": "Có sự cố, hic: Người lạ không có trong máy chủ của Talkc0n ;-;",
   "voice_request_sent": "Yêu cầu tạo kênh Voice đã được gửi đến người lạ...Vui lòng chờ phản hồi từ người lạ!",
-  "voice_request_received": "Người lạ muốn tạo 1 kênh Voice với bạn. React ✅ để đồng ý hoặc ❌ để từ chối!",
+  "voice_request_received": "Người lạ muốn tham gia kênh Voice với bạn. React ✅ để đồng ý hoặc ❌ để từ chối!",
   "voice_channel_created": "Kênh Voice giữa 2 người đã được tạo! Bạn có thể tham gia tại đây (tồn tại trong 1 phút): {channel}",
-  "voice_request_declined": "Đối tác đã từ chối yêu cầu tạo kênh Voice của bạn ;-;",
+  "voice_request_declined": "Người lạ đã từ chối yêu cầu tạo kênh Voice của bạn ;-;",
   "voice_request_timeout": "Yêu cầu tạo kênh Voice đã hết hạn. Vui lòng thử lại!"
 }
