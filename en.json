@@ -13,7 +13,7 @@
   "match_request_received": "The stranger wants to reveal their identity to you. Use `/match` to confirm or ignore this message if you don't want to!",
   "leave_chat": "You have left this conversation!",
   "partner_left_chat": "The stranger has left this conversation!",
-  "stranger_message": "**Stranger says:** {message}",
+  "stranger_message": "{message}",
   "register_first": "You need to register your information before you can start searching for strangers to chat with. Please use the `/register` command to register!",
   "match_success": "Identity reveal request has been accepted. Stranger's information has been sent via DM, please check!",
   "identity_revealed": "Note: The information may contain spam / not the truth, but this is the information that Stranger registered with Talkc0n!",
