@@ -13,7 +13,7 @@
   "match_request_received": "陌生人想要一起披露身份。使用 `/match` 來同意或忽略訊息如果你不想！",
   "leave_chat": "你已退出這對話！",
   "partner_left_chat": "陌生人已退出這對話！",
-  "stranger_message": "**陌生人：** {message}",
+  "stranger_message": "{message}",
   "register_first": "你必需註冊才能跟陌生人對話。使用 `/register` 指令來註冊！",
   "match_success": "披露資料要求已通過。陌生人的資料已傳送到私人聊天，請檢查！",
   "identity_revealed": "注意：有可能陌生人的資料是錯誤/不真實，但那是他提供給Talkc0n的！",
