@@ -13,7 +13,7 @@
   "match_request_received": "Người lạ đang muốn tiết lộ danh tính cùng bạn. Sử dụng `/match` để xác nhận hoặc bỏ qua tin nhắn này nếu bạn không muốn!",
   "leave_chat": "Bạn đã rời khỏi cuộc trò chuyện này!",
   "partner_left_chat": "Người lạ đã rời khỏi cuộc trò chuyện này!",
-  "stranger_message": "**Người lạ nói:** {message}",
+  "stranger_message": "{message}",
   "register_first": "Bạn cần đăng ký thông tin trước khi bắt đầu tìm kiếm người lạ để trò chuyện. Vui lòng sử dụng lệnh `/register` để đăng ký!",
   "match_success": "Yêu cầu tiết lộ danh tính đã được chấp nhận. Thông tin của người lạ đã được gửi qua DM, hãy kiểm tra!",
   "identity_revealed": "Lưu ý: Có thể thông tin sẽ có sai sót / sai sự thật nhưng đó là thông tin mà người lạ đã đăng ký với Talkc0n!",
