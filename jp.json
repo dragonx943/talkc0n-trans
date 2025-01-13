@@ -38,5 +38,12 @@
   "voice_request_received": "agree: ✅ | disagree: ❌ ",
   "voice_channel_created": "1m available vc: {channel}",
   "voice_request_declined": "",
-  "voice_request_timeout": ""
+  "voice_request_timeout": "",
+  "confirm_leave_chat": "",
+  "timeout_leave_chat": "",
+  "cancel_leave_chat": "",
+  "start": "",
+  "banned_message": "",
+  "ban_details": "",
+  "permanent": ""
 }

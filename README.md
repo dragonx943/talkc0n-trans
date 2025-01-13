@@ -1,7 +1,7 @@
-# 🕒 Cập nhật các hàm lần cuối / Last updated functions: `7:19 PM - 19/9/2024`
+# 🕒 Cập nhật các hàm lần cuối / Last updated functions: `4:32 PM - 1/13/2025`
 
-# Đây là nơi các bạn đóng góp bản dịch của mình cho Talkc0n (nó rất dễ chỉnh sửa, giống như kiểu dịch Game 18+ thôi)
-# This is where you contribute your translations to Talkc0n
+# Đây là nơi các bạn đóng góp bản dịch của mình cho Talkc0n
+# This is where you contribute your translation about Talkc0n
 
 ## Cách đóng góp / How to contribute:
 

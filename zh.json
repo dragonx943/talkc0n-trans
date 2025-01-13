@@ -38,5 +38,12 @@
   "voice_request_received": "對方想要跟你建立語音頻道。 點 ✅ （同意） 或 ❌ （拒絕）！",
   "voice_channel_created": "已建立語音頻道！你可以在這參加（一分鍾內有效）： {channel}",
   "voice_request_declined": "你的建立語音頻道要求已被拒絕 ;-;",
-  "voice_request_timeout": "建立語音頻道要求已過期。請重次！"
+  "voice_request_timeout": "建立語音頻道要求已過期。請重次！",
+  "confirm_leave_chat": "",
+  "timeout_leave_chat": "",
+  "cancel_leave_chat": "",
+  "start": "",
+  "banned_message": "",
+  "ban_details": "",
+  "permanent": ""
 }

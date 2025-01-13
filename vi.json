@@ -38,5 +38,12 @@
   "voice_request_received": "Người lạ muốn tham gia kênh Voice với bạn. React ✅ để đồng ý hoặc ❌ để từ chối!",
   "voice_channel_created": "Kênh Voice giữa 2 người đã được tạo! Bạn có thể tham gia tại đây (tồn tại trong 1 phút): {channel}",
   "voice_request_declined": "Người lạ đã từ chối yêu cầu tạo kênh Voice của bạn ;-;",
-  "voice_request_timeout": "Yêu cầu tạo kênh Voice đã hết hạn. Vui lòng thử lại!"
+  "voice_request_timeout": "Yêu cầu tạo kênh Voice đã hết hạn. Vui lòng thử lại!",
+  "confirm_leave_chat": "Bạn có chắc chắn muốn rời khỏi đoạn Chat không? (React ✅ để xác nhận hoặc ❌ để từ chối)",
+  "timeout_leave_chat": "Yêu cầu rời khỏi đoạn Chat đã hết hạn. Tiếp tục đoạn Chat!",
+  "cancel_leave_chat": "Bạn đã từ chối rời khỏi đoạn Chat, hãy tiếp tục đoạn Chat!",
+  "start": "Cảnh báo",
+  "banned_message": "Bạn đã bị cấm sử dụng Talkc0n! Thông tin cấm:",
+  "ban_details": "⛔ Thời hạn cấm: {expiry}\n📋 Lý do: {reason}",
+  "permanent": "Vĩnh viễn!"
 }

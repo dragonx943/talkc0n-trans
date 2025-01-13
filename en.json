@@ -38,5 +38,12 @@
   "voice_request_received": "The stranger wants to join a Voice channel with you. React with ✅ to accept or ❌ to decline!",
   "voice_channel_created": "Voice channel between the two of you has been created! You can join here (exists for 1 minute): {channel}",
   "voice_request_declined": "The stranger has declined your Voice channel request!",
-  "voice_request_timeout": "Voice channel request has timed out. Please try again!"
+  "voice_request_timeout": "Voice channel request has timed out. Please try again!",
+  "confirm_leave_chat": "Are you sure you want to leave this chat? (React ✅ to confirm or ❌ to decline)",
+  "timeout_leave_chat": "Request to leave chat has timed out. Continue chat!",
+  "cancel_leave_chat": "You have declined to leave chat, continue chat!",
+  "start": "Warning",
+  "banned_message": "You have been banned from using Talkc0n!",
+  "ban_details": "⛔ Ban expiry: {expiry}\n📋 Ban reason: {reason}",
+  "permanent": "Permanent!"
 }
