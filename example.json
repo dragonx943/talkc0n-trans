@@ -44,6 +44,6 @@
   "cancel_leave_chat": "",
   "start": "",
   "banned_message": "",
-  "ban_details": "",
+  "ban_details": "⛔ {expiry}\n📋 : {reason}",
   "permanent": ""
 }
