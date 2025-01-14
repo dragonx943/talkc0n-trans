@@ -42,7 +42,7 @@
   "confirm_leave_chat": "Bạn có chắc chắn muốn rời khỏi đoạn Chat không? (React ✅ để xác nhận hoặc ❌ để từ chối)",
   "timeout_leave_chat": "Yêu cầu rời khỏi đoạn Chat đã hết hạn. Tiếp tục đoạn Chat!",
   "cancel_leave_chat": "Bạn đã từ chối rời khỏi đoạn Chat, hãy tiếp tục đoạn Chat!",
-  "start": "Cảnh báo",
+  "warning": "Cảnh báo",
   "banned_message": "Bạn đã bị cấm sử dụng Talkc0n! Thông tin cấm:",
   "ban_details": "⛔ Thời hạn cấm: {expiry}\n📋 Lý do: {reason}",
   "permanent": "Vĩnh viễn!"

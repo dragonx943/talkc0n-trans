@@ -42,7 +42,7 @@
   "confirm_leave_chat": "Are you sure you want to leave this chat? (React ✅ to confirm or ❌ to decline)",
   "timeout_leave_chat": "Request to leave chat has timed out. Continue chat!",
   "cancel_leave_chat": "You have declined to leave chat, continue chat!",
-  "start": "Warning",
+  "warning": "Warning",
   "banned_message": "You have been banned from using Talkc0n!",
   "ban_details": "⛔ Ban expiry: {expiry}\n📋 Ban reason: {reason}",
   "permanent": "Permanent!"
