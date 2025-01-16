@@ -39,11 +39,14 @@
   "voice_channel_created": "已建立語音頻道！你可以在這參加（一分鍾內有效）： {channel}",
   "voice_request_declined": "你的建立語音頻道要求已被拒絕 ;-;",
   "voice_request_timeout": "建立語音頻道要求已過期。請重次！",
-  "confirm_leave_chat": "",
-  "timeout_leave_chat": "",
-  "cancel_leave_chat": "",
-  "warning": "",
-  "banned_message": "",
-  "ban_details": "",
-  "permanent": ""
+  "confirm_leave_chat": "您确定要离开此聊天吗？（点击 ✅ 确认或点击 ❌ 拒绝）",
+  "timeout_leave_chat": "離開聊天請求已過期。繼續聊天！",
+  "cancel_leave_chat": "您已拒絕離開聊天，繼續聊天！",
+  "warning": "警告",
+  "banned_message": "您已被禁止使用Talkc0n！",
+  "ban_details": "⛔ 禁用時間：{expiry}\n📋 禁用原因：{reason}",
+  "permanent": "永久！",
+  "report_title": "報告陌生人",
+  "report_content": "請描述您與陌生人的問題",
+  "report_success": "您的報告已成功提交！"
 }

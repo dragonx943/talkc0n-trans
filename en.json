@@ -45,5 +45,8 @@
   "warning": "Warning",
   "banned_message": "You have been banned from using Talkc0n!",
   "ban_details": "⛔ Ban expiry: {expiry}\n📋 Ban reason: {reason}",
-  "permanent": "Permanent!"
+  "permanent": "Permanent!",
+  "report_title": "Report a Stranger",
+  "report_content": "Please describe your issue with the Stranger",
+  "report_success": "Your report has been submitted successfully!"
 }
