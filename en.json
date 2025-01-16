@@ -7,7 +7,7 @@
   "register_description": "Describe yourself ?",
   "register_success": "You have successfully registered with Talkc0n!",
   "start_matching": "Searching for a stranger to chat with... Please wait...",
-  "match_found": "A stranger looking to chat has been found! Start your conversation at Talkc0n DM!",
+  "match_found": "A stranger looking to chat has been found! Start your conversation now!",
   "already_in_chat": "You are already in a conversation with a stranger. Use `/stop` to end it before starting a new chat!",
   "match_request_sent": "Identity reveal request has been sent, please wait for the stranger to confirm!",
   "match_request_received": "The stranger wants to reveal their identity to you. Use `/match` to confirm or ignore this message if you don't want to!",
