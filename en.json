@@ -48,5 +48,11 @@
   "permanent": "Permanent!",
   "report_title": "Report a Stranger",
   "report_content": "Please describe your issue with the Stranger",
-  "report_success": "Your report has been submitted successfully!"
+  "report_success": "Your report has been submitted successfully!",
+  "terms_title": "By using Chatto, you agree to the following terms:",
+  "terms_content": "```1. You allow Chatto to collect your personal data on Chatto's server, including the following data: Discord user ID, basic personal information (the information you are about to register on Chatto).\n2. Chatto will be responsible for encrypting/protecting your data against any attacks or data theft from outside into Chatto's server and will NOT disclose it to any third parties!\n3. Always be responsible for your message content and ensure security in cyberspace!```",
+  "denied": "**❌ Denied!**",
+  "end_1": "**❌ This term is overdue for approval, please try again!**",
+  "end_2": "**❌ You have refused Chatto's terms!**",
+  "pls_confirm": "Please confirm the terms of Chatto by reacting with ✅ or ❌"
 }

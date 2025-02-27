@@ -48,5 +48,11 @@
   "permanent": "Vĩnh viễn!",
   "report_title": "Báo cáo người lạ",
   "report_content": "Vui lòng mô tả vấn đề của bạn với người lạ",
-  "report_success": "Báo cáo của bạn đã được gửi thành công!"
+  "report_success": "Báo cáo của bạn đã được gửi thành công!",
+  "terms_title": "Bằng cách sử dụng Chatto, bạn đồng ý với các điều khoản sử dụng sau:",
+  "terms_content": "```1. Cho phép Chatto thu thập dữ liệu cá nhân của bạn vào máy chủ của Chatto, bao gồm những dữ liệu sau: ID người dùng Discord, thông tin cá nhân cơ bản (Thông tin mà bạn sắp chuẩn bị để đăng ký hồ sơ trên Chatto).\n2. Chatto sẽ có trách nhiệm mã hoá / bảo vệ dữ liệu của bạn trước mọi sự tấn công hoặc đánh cắp dữ liệu từ bên ngoài vào máy chủ của Chatto và cũng sẽ KHÔNG tiết lộ cho bất cứ bên thứ ba nào!\n3. Luôn chịu trách nhiệm với những nội dung tin nhắn của bạn và hãy đảm bảo an ninh an toàn trên không gian mạng!```",
+  "denied": "**❌ Đã từ chối**",
+  "end_1": "**❌ Điều khoản này đã quá hạn chờ xác nhận, vui lòng thử lại!**",
+  "end_2": "**❌ Bạn đã từ chối điều khoản của Chatto!**",
+  "pls_confirm": "Vui lòng xác nhận điều khoản của Chatto bằng cách phản hồi với ✅ hoặc ❌"
 }
