@@ -42,8 +42,11 @@
   "confirm_leave_chat": "",
   "timeout_leave_chat": "",
   "cancel_leave_chat": "",
-  "start": "",
+  "warning": "",
   "banned_message": "",
   "ban_details": "⛔ {expiry}\n📋 : {reason}",
-  "permanent": ""
+  "permanent": "",
+  "report_title": "",
+  "report_content": "",
+  "report_success": ""
 }
