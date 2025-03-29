@@ -1,5 +1,3 @@
-# 🕒 Cập nhật các hàm lần cuối / Last updated functions: `4:32 PM - 1/13/2025`
-
 # Đây là nơi các bạn đóng góp bản dịch của mình cho Talkc0n
 # This is where you contribute your translation about Talkc0n
 
