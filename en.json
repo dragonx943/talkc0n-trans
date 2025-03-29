@@ -55,5 +55,8 @@
   "end_1": "**❌ This term is overdue for approval, please try again!**",
   "end_2": "**❌ You have refused チャット's terms!**",
   "pls_confirm": "Please confirm the terms of チャット by reacting with ✅ or ❌",
-  "invite_voice_nf": "Oops! Looks like the Stranger is trying to call you but you're not in チャット's server! Join the server if you want to: <{invite_link}>"
+  "invite_voice_nf": "Oops! Looks like the Stranger is trying to call you but you're not in チャット's server! Join the server if you want to: <{invite_link}>",
+  "avatar_on": "Enabled! Strangers can now see your Discord avatar when using `/match`!",
+  "avatar_off": "Disabled! Strangers can no longer see your Discord avatar when using `/match`!",
+  "nothing_changed": "Nothing changed!"
 }
