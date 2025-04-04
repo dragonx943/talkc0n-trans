@@ -58,5 +58,6 @@
   "invite_voice_nf": "Oops! Có vẻ đối phương đang muốn gọi cho bạn nhưng bạn chưa tham gia máy chủ! Hãy tham gia máy chủ nếu bạn muốn: <{invite_link}>",
   "avatar_on": "Đã bật! Giờ người lạ có thể xem được ảnh đại diện Discord của bạn khi dùng `/match`!",
   "avatar_off": "Đã tắt! Giờ người lạ không thể xem được ảnh đại diện Discord của bạn khi dùng `/match`!",
-  "nothing_changed": "Không có gì thay đổi cả!"
+  "nothing_changed": "Không có gì thay đổi cả!",
+  "forbidden_chat": "Oops! Dường như チャット không thể DM về hộp thư đến của bạn, đây là điều cần thiết! Hãy đảm bảo rằng bạn không chặn DM của チャット + Sử dụng lệnh `/start` trong mục tin nhắn riêng của bạn (Direct Messages) với チャット!"
 }

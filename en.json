@@ -58,5 +58,6 @@
   "invite_voice_nf": "Oops! Looks like the Stranger is trying to call you but you're not in チャット's server! Join the server if you want to: <{invite_link}>",
   "avatar_on": "Enabled! Strangers can now see your Discord avatar when using `/match`!",
   "avatar_off": "Disabled! Strangers can no longer see your Discord avatar when using `/match`!",
-  "nothing_changed": "Nothing changed!"
+  "nothing_changed": "Nothing changed!",
+  "forbidden_chat": "Oops! It seems that チャット can't send messages to your inbox, this is necessary! Make sure you don't block チャット's incoming messages + Use `/start` command in your private messages (Direct Messages) with チャット!"
 }
