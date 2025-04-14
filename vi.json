@@ -63,5 +63,7 @@
   "auth_success": "Xác thực thành công! Vui lòng sử dụng lệnh `/sign_up` một lần nữa để tiếp tục",
   "auth_required": "Vui lòng xác thực ứng dụng với Discord để tiếp tục!",
   "auth_button": "✅ Xác thực",
-  "press_here": "Chạm vào đây (đoạn chữ xanh này) để xác thực!"
+  "press_here": "Chạm vào đây (đoạn chữ xanh này) để xác thực!",
+  "username_on": "Đã bật! Giờ người lạ có thể xem được tên người dùng Discord của bạn khi dùng `/match`!",
+  "username_off": "Đã tắt! Giờ người lạ không thể xem được tên người dùng Discord của bạn khi dùng `/match`!"
 }

@@ -63,5 +63,7 @@
   "auth_success": "Authentication successful! Please use `/sign_up` again to continue!",
   "auth_required": "Please authenticate with Discord to continue!",
   "auth_button": "✅ Authorize",
-  "press_here": "Press here (this blue text) to authorize!"
+  "press_here": "Press here (this blue text) to authorize!",
+  "username_on": "Đã bật! Giờ người lạ có thể xem được tên người dùng Discord của bạn khi dùng `/match`!",
+  "username_off": "Đã tắt! Giờ người lạ không thể xem được tên người dùng Discord của bạn khi dùng `/match`!"
 }
