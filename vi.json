@@ -50,7 +50,7 @@
   "report_content": "Vui lòng mô tả vấn đề của bạn với người lạ",
   "report_success": "Báo cáo của bạn đã được gửi thành công!",
   "terms_title": "Bằng cách sử dụng チャット, bạn đồng ý với các điều khoản sử dụng sau:",
-  "terms_content": "```1. Cho phép チャット thu thập dữ liệu cá nhân của bạn vào máy chủ của チャット, bao gồm những dữ liệu sau: ID người dùng Discord, thông tin cá nhân cơ bản (Thông tin mà bạn sắp chuẩn bị để đăng ký hồ sơ trên チャット).\n2. チャット sẽ có trách nhiệm mã hoá / bảo vệ dữ liệu của bạn trước mọi sự tấn công hoặc đánh cắp dữ liệu từ bên ngoài vào máy chủ của チャット và cũng sẽ KHÔNG tiết lộ cho bất cứ bên thứ ba nào!\n3. Luôn chịu trách nhiệm với những nội dung tin nhắn của bạn và hãy đảm bảo an ninh an toàn trên không gian mạng!```",
+  "terms_content": "```1. Cho phép Talkc0n thu thập cá nhân cơ bản của bạn vào máy chủ của Talkc0n, bao gồm những dữ liệu sau: ID người dùng Discord, thông tin cá nhân cơ bản mà bạn sắp chuẩn bị để đăng ký hồ sơ trên Talkc0n. Những dữ liệu này đều là những dữ liệu công khai hoàn toàn bởi Discord và cũng là dữ liệu do chính bạn khai báo trước Discord.\n\n2. Talkc0n sẽ có trách nhiệm mã hoá / bảo vệ những dữ liệu của bạn trước mọi sự tấn công hoặc đánh cắp dữ liệu từ bên ngoài vào máy chủ của Talkc0n và cũng sẽ KHÔNG BAO GIỜ tiết lộ những dữ liệu đó cho bất cứ bên thứ ba nào. Talkc0n và các ứng dụng liên quan luôn tuân thủ theo điều khoản sử dụng của Discord: https://discord.com/terms!\n\n3. Bạn phải chịu trách nhiệm với những nội dung tin nhắn của bạn và hãy đảm bảo an ninh an toàn trên không gian mạng! Nếu bạn cố tình quấy rối người khác trên không gian mạng, chúng tôi (đội ngũ Team :P) luôn có toàn quyền đưa ra phán quyết cuối cùng dành cho bạn dựa trên mức độ vi phạm của bạn!\n\n\nTalkc0n là tên dự án của chúng tôi đối với ứng dụng Talkc0n / Chatto / チャット```",
   "denied": "**❌ Đã từ chối**",
   "end_1": "**❌ Điều khoản này đã quá hạn chờ xác nhận, vui lòng thử lại!**",
   "end_2": "**❌ Bạn đã từ chối điều khoản của チャット!**",
@@ -59,5 +59,9 @@
   "avatar_on": "Đã bật! Giờ người lạ có thể xem được ảnh đại diện Discord của bạn khi dùng `/match`!",
   "avatar_off": "Đã tắt! Giờ người lạ không thể xem được ảnh đại diện Discord của bạn khi dùng `/match`!",
   "nothing_changed": "Không có gì thay đổi cả!",
-  "forbidden_chat": "Oops! Dường như チャット không thể DM về hộp thư đến của bạn, đây là điều cần thiết! Hãy đảm bảo rằng bạn không chặn DM của チャット + Sử dụng lệnh `/start` trong mục tin nhắn riêng của bạn (Direct Messages) với チャット!"
+  "forbidden_chat": "Oops! Dường như チャット không thể DM về hộp thư đến của bạn, đây là điều cần thiết! Hãy đảm bảo rằng bạn không chặn DM của チャット + Sử dụng lệnh `/start` trong mục tin nhắn riêng của bạn (Direct Messages) với チャット!",
+  "auth_success": "Xác thực thành công! Vui lòng sử dụng lệnh `/sign_up` một lần nữa để tiếp tục",
+  "auth_required": "Vui lòng xác thực ứng dụng với Discord để tiếp tục!",
+  "auth_button": "✅ Xác thực",
+  "press_here": "Chạm vào đây (đoạn chữ xanh này) để xác thực!"
 }

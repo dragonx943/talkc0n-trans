@@ -50,7 +50,7 @@
   "report_content": "Please describe your issue with the Stranger",
   "report_success": "Your report has been submitted successfully!",
   "terms_title": "By using チャット, you agree to the following terms:",
-  "terms_content": "```1. You allow チャット to collect your personal data on チャット's server, including the following data: Discord user ID, basic personal information (the information you are about to register on チャット).\n2. チャット will be responsible for encrypting/protecting your data against any attacks or data theft from outside into チャット's server and will NOT disclose it to any third parties!\n3. Always be responsible for your message content and ensure security in cyberspace!```",
+  "terms_content": "```1. Allow Talkc0n to collect your basic personal information on Talkc0n's server, including the following data: Discord user ID, basic personal information that you are about to prepare to register a profile on Talkc0n. These data are all completely public data by Discord and are also data that you declare to Discord.\n\n2. Talkc0n will be responsible for encrypting / protecting your data against any attacks or data theft from outside to Talkc0n's server and will NEVER disclose such data to any third party. Talkc0n and related applications always comply with Discord's terms of use: https://discord.com/terms!\n\n3. You are responsible for the content of your messages and ensure safety in cyberspace! If you intentionally harass others in cyberspace, we (Team :P) always have the right to make the final judgment for you based on the level of your violation!\n\n\nTalkc0n is our project name for Talkc0n / Chatto / チャット application```",
   "denied": "**❌ Denied!**",
   "end_1": "**❌ This term is overdue for approval, please try again!**",
   "end_2": "**❌ You have refused チャット's terms!**",
@@ -59,5 +59,9 @@
   "avatar_on": "Enabled! Strangers can now see your Discord avatar when using `/match`!",
   "avatar_off": "Disabled! Strangers can no longer see your Discord avatar when using `/match`!",
   "nothing_changed": "Nothing changed!",
-  "forbidden_chat": "Oops! It seems that チャット can't send messages to your inbox, this is necessary! Make sure you don't block チャット's incoming messages + Use `/start` command in your private messages (Direct Messages) with チャット!"
+  "forbidden_chat": "Oops! It seems that チャット can't send messages to your inbox, this is necessary! Make sure you don't block チャット's incoming messages + Use `/start` command in your private messages (Direct Messages) with チャット!",
+  "auth_success": "Authentication successful! Please use `/sign_up` again to continue!",
+  "auth_required": "Please authenticate with Discord to continue!",
+  "auth_button": "✅ Authorize",
+  "press_here": "Press here (this blue text) to authorize!"
 }
